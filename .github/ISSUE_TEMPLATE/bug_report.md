@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-description: Unexpected behavior, errors, or failures
+about: Unexpected behavior, errors, or failures
 title: "[BUG] "
 labels: bug
 ---

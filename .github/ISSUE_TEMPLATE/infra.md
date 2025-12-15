@@ -1,6 +1,6 @@
 ---
 name: Infra / CI / DevOps
-description: Infrastructure, CI/CD, or tooling-related changes
+about: Infrastructure, CI/CD, or tooling-related changes
 title: "[INFRA] "
 labels: infra
 ---

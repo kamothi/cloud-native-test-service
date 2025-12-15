@@ -1,6 +1,6 @@
 ---
 name: Refactor
-description: Code refactoring without changing external behavior
+about: Code refactoring without changing external behavior
 title: "[REFACTOR] "
 labels: refactor
 ---
